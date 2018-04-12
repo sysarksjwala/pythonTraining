@@ -1,0 +1,11 @@
+--> Every python module must have an attribute called "__name__" and it always set it to the '__main__', when module is main program.
+
+-->value of "__name__" in any module defines to that particular module.
+
+-->importing of files
+
+-->process of execution when importing file in other file with condition "__name__" = "__main__"
+
+-->Indentation in python program
+
+-->syntax of the program
