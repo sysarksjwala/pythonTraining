@@ -1,4 +1,4 @@
-print("A program for Average of two numbers")
+#print("A program for Average of two numbers")
 print()
 print("Average") 
 #initializing variable 
